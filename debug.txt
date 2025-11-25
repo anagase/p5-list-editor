@@ -1,0 +1,414 @@
+DBG(ctor) index=0 size=0 row=1 col=0
+DBG hex:
+DBG vis: 
+DBG(insert) index=1 size=1 row=1 col=1
+DBG hex: 41
+DBG vis: A
+DBG(insert) index=2 size=2 row=1 col=2
+DBG hex: 41 6e
+DBG vis: An
+DBG(insert) index=3 size=3 row=1 col=3
+DBG hex: 41 6e 79
+DBG vis: Any
+DBG(insert) index=4 size=4 row=1 col=4
+DBG hex: 41 6e 79 77
+DBG vis: Anyw
+DBG(insert) index=5 size=5 row=1 col=5
+DBG hex: 41 6e 79 77 61
+DBG vis: Anywa
+DBG(insert) index=6 size=6 row=1 col=6
+DBG hex: 41 6e 79 77 61 79
+DBG vis: Anyway
+DBG(insert) index=7 size=7 row=1 col=7
+DBG hex: 41 6e 79 77 61 79 2c
+DBG vis: Anyway,
+DBG(insert) index=8 size=8 row=1 col=8
+DBG hex: 41 6e 79 77 61 79 2c 20
+DBG vis: Anyway, 
+DBG(insert) index=9 size=9 row=1 col=9
+DBG hex: 41 6e 79 77 61 79 2c 20 74
+DBG vis: Anyway, t
+DBG(insert) index=10 size=10 row=1 col=10
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68
+DBG vis: Anyway, th
+DBG(insert) index=11 size=11 row=1 col=11
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69
+DBG vis: Anyway, thi
+DBG(insert) index=12 size=12 row=1 col=12
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73
+DBG vis: Anyway, this
+DBG(insert) index=13 size=13 row=1 col=13
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20
+DBG vis: Anyway, this 
+DBG(insert) index=14 size=14 row=1 col=14
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63
+DBG vis: Anyway, this c
+DBG(insert) index=15 size=15 row=1 col=15
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61
+DBG vis: Anyway, this ca
+DBG(insert) index=16 size=16 row=1 col=16
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b
+DBG vis: Anyway, this cak
+DBG(insert) index=17 size=17 row=1 col=17
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65
+DBG vis: Anyway, this cake
+DBG(insert) index=18 size=18 row=1 col=18
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20
+DBG vis: Anyway, this cake 
+DBG(insert) index=19 size=19 row=1 col=19
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69
+DBG vis: Anyway, this cake i
+DBG(insert) index=20 size=20 row=1 col=20
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73
+DBG vis: Anyway, this cake is
+DBG(insert) index=21 size=21 row=1 col=21
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20
+DBG vis: Anyway, this cake is 
+DBG(insert) index=22 size=22 row=1 col=22
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67
+DBG vis: Anyway, this cake is g
+DBG(insert) index=23 size=23 row=1 col=23
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72
+DBG vis: Anyway, this cake is gr
+DBG(insert) index=24 size=24 row=1 col=24
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65
+DBG vis: Anyway, this cake is gre
+DBG(insert) index=25 size=25 row=1 col=25
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61
+DBG vis: Anyway, this cake is grea
+DBG(insert) index=26 size=26 row=1 col=26
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74
+DBG vis: Anyway, this cake is great
+DBG(insert) index=27 size=27 row=1 col=27
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e
+DBG vis: Anyway, this cake is great.
+DBG(insert) index=28 size=28 row=2 col=0
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a
+DBG vis: Anyway, this cake is great.\n
+DBG(insert) index=29 size=29 row=2 col=1
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49
+DBG vis: Anyway, this cake is great.\nI
+DBG(insert) index=30 size=30 row=2 col=2
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74
+DBG vis: Anyway, this cake is great.\nIt
+DBG(insert) index=31 size=31 row=2 col=3
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27
+DBG vis: Anyway, this cake is great.\nIt'
+DBG(insert) index=32 size=32 row=2 col=4
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73
+DBG vis: Anyway, this cake is great.\nIt's
+DBG(insert) index=33 size=33 row=2 col=5
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20
+DBG vis: Anyway, this cake is great.\nIt's 
+DBG(insert) index=34 size=34 row=2 col=6
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73
+DBG vis: Anyway, this cake is great.\nIt's s
+DBG(insert) index=35 size=35 row=2 col=7
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f
+DBG vis: Anyway, this cake is great.\nIt's so
+DBG(insert) index=36 size=36 row=2 col=8
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20
+DBG vis: Anyway, this cake is great.\nIt's so 
+DBG(insert) index=37 size=37 row=2 col=9
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64
+DBG vis: Anyway, this cake is great.\nIt's so d
+DBG(insert) index=38 size=38 row=2 col=10
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65
+DBG vis: Anyway, this cake is great.\nIt's so de
+DBG(insert) index=39 size=39 row=2 col=11
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c
+DBG vis: Anyway, this cake is great.\nIt's so del
+DBG(insert) index=40 size=40 row=2 col=12
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69
+DBG vis: Anyway, this cake is great.\nIt's so deli
+DBG(insert) index=41 size=41 row=2 col=13
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63
+DBG vis: Anyway, this cake is great.\nIt's so delic
+DBG(insert) index=42 size=42 row=2 col=14
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69
+DBG vis: Anyway, this cake is great.\nIt's so delici
+DBG(insert) index=43 size=43 row=2 col=15
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f
+DBG vis: Anyway, this cake is great.\nIt's so delicio
+DBG(insert) index=44 size=44 row=2 col=16
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75
+DBG vis: Anyway, this cake is great.\nIt's so deliciou
+DBG(insert) index=45 size=45 row=2 col=17
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73
+DBG vis: Anyway, this cake is great.\nIt's so delicious
+DBG(insert) index=46 size=46 row=2 col=18
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20
+DBG vis: Anyway, this cake is great.\nIt's so delicious 
+DBG(insert) index=47 size=47 row=2 col=19
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61
+DBG vis: Anyway, this cake is great.\nIt's so delicious a
+DBG(insert) index=48 size=48 row=2 col=20
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e
+DBG vis: Anyway, this cake is great.\nIt's so delicious an
+DBG(insert) index=49 size=49 row=2 col=21
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64
+DBG vis: Anyway, this cake is great.\nIt's so delicious and
+DBG(insert) index=50 size=50 row=2 col=22
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20
+DBG vis: Anyway, this cake is great.\nIt's so delicious and 
+DBG(insert) index=51 size=51 row=2 col=23
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d
+DBG vis: Anyway, this cake is great.\nIt's so delicious and m
+DBG(insert) index=52 size=52 row=2 col=24
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f
+DBG vis: Anyway, this cake is great.\nIt's so delicious and mo
+DBG(insert) index=53 size=53 row=2 col=25
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69
+DBG vis: Anyway, this cake is great.\nIt's so delicious and moi
+DBG(insert) index=54 size=54 row=2 col=26
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73
+DBG vis: Anyway, this cake is great.\nIt's so delicious and mois
+DBG(insert) index=55 size=55 row=2 col=27
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74
+DBG vis: Anyway, this cake is great.\nIt's so delicious and moist
+DBG(insert) index=56 size=56 row=2 col=28
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e
+DBG vis: Anyway, this cake is great.\nIt's so delicious and moist.
+DBG(insert) index=57 size=57 row=3 col=0
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, this cake is great.\nIt's so delicious and moist.\n
+DBG(move_to_row_start) index=57 size=57 row=3 col=0
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, this cake is great.\nIt's so delicious and moist.\n
+DBG(move_to_row_start) index=28 size=57 row=2 col=0
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, this cake is great.\nIt's so delicious and moist.\n
+DBG(move_to_column) index=28 size=57 row=2 col=0
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, this cake is great.\nIt's so delicious and moist.\n
+DBG(up) index=28 size=57 row=2 col=0
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, this cake is great.\nIt's so delicious and moist.\n
+DBG(move_to_row_start) index=28 size=57 row=2 col=0
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, this cake is great.\nIt's so delicious and moist.\n
+DBG(move_to_row_start) index=0 size=57 row=1 col=0
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, this cake is great.\nIt's so delicious and moist.\n
+DBG(move_to_column) index=0 size=57 row=1 col=0
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, this cake is great.\nIt's so delicious and moist.\n
+DBG(up) index=0 size=57 row=1 col=0
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, this cake is great.\nIt's so delicious and moist.\n
+DBG(forward) index=1 size=57 row=1 col=1
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, this cake is great.\nIt's so delicious and moist.\n
+DBG(forward) index=2 size=57 row=1 col=2
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, this cake is great.\nIt's so delicious and moist.\n
+DBG(forward) index=3 size=57 row=1 col=3
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, this cake is great.\nIt's so delicious and moist.\n
+DBG(forward) index=4 size=57 row=1 col=4
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, this cake is great.\nIt's so delicious and moist.\n
+DBG(forward) index=5 size=57 row=1 col=5
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, this cake is great.\nIt's so delicious and moist.\n
+DBG(forward) index=6 size=57 row=1 col=6
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, this cake is great.\nIt's so delicious and moist.\n
+DBG(forward) index=7 size=57 row=1 col=7
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, this cake is great.\nIt's so delicious and moist.\n
+DBG(forward) index=8 size=57 row=1 col=8
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, this cake is great.\nIt's so delicious and moist.\n
+DBG(forward) index=9 size=57 row=1 col=9
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, this cake is great.\nIt's so delicious and moist.\n
+DBG(forward) index=10 size=57 row=1 col=10
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 69 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, this cake is great.\nIt's so delicious and moist.\n
+DBG(remove) index=9 size=56 row=1 col=9
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 73 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, ths cake is great.\nIt's so delicious and moist.\n
+DBG(remove) index=8 size=55 row=1 col=8
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, th cake is great.\nIt's so delicious and moist.\n
+DBG(insert) index=9 size=56 row=1 col=9
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, the cake is great.\nIt's so delicious and moist.\n
+DBG(move_to_row_end) index=25 size=56 row=1 col=26
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, the cake is great.\nIt's so delicious and moist.\n
+DBG(forward) index=26 size=56 row=2 col=0
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 49 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, the cake is great.\nIt's so delicious and moist.\n
+DBG(remove) index=25 size=55 row=2 col=-1
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 74 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, the cake is great.\nt's so delicious and moist.\n
+DBG(remove) index=24 size=54 row=2 col=-2
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 27 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, the cake is great.\n's so delicious and moist.\n
+DBG(remove) index=23 size=53 row=2 col=-3
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 73 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, the cake is great.\ns so delicious and moist.\n
+DBG(remove) index=22 size=52 row=2 col=-4
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 20 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, the cake is great.\n so delicious and moist.\n
+DBG(remove) index=21 size=51 row=2 col=-5
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 73 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, the cake is great.\nso delicious and moist.\n
+DBG(remove) index=20 size=50 row=2 col=-6
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 6f 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, the cake is great.\no delicious and moist.\n
+DBG(remove) index=19 size=49 row=2 col=-7
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 20 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, the cake is great.\n delicious and moist.\n
+DBG(remove) index=18 size=48 row=2 col=-8
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 64 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, the cake is great.\ndelicious and moist.\n
+DBG(remove) index=17 size=47 row=2 col=-9
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 65 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, the cake is great.\nelicious and moist.\n
+DBG(remove) index=16 size=46 row=2 col=-10
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 6c 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, the cake is great.\nlicious and moist.\n
+DBG(remove) index=15 size=45 row=2 col=-11
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 69 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, the cake is great.\nicious and moist.\n
+DBG(remove) index=14 size=44 row=2 col=-12
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 63 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, the cake is great.\ncious and moist.\n
+DBG(remove) index=13 size=43 row=2 col=-13
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 69 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, the cake is great.\nious and moist.\n
+DBG(remove) index=12 size=42 row=2 col=-14
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 6f 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, the cake is great.\nous and moist.\n
+DBG(remove) index=11 size=41 row=2 col=-15
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 75 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, the cake is great.\nus and moist.\n
+DBG(remove) index=10 size=40 row=2 col=-16
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 73 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, the cake is great.\ns and moist.\n
+DBG(remove) index=9 size=39 row=2 col=-17
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 20 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, the cake is great.\n and moist.\n
+DBG(remove) index=8 size=38 row=2 col=-18
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 61 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, the cake is great.\nand moist.\n
+DBG(remove) index=7 size=37 row=2 col=-19
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 6e 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, the cake is great.\nnd moist.\n
+DBG(remove) index=6 size=36 row=2 col=-20
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 64 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, the cake is great.\nd moist.\n
+DBG(remove) index=5 size=35 row=2 col=-21
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 20 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, the cake is great.\n moist.\n
+DBG(remove) index=4 size=34 row=2 col=-22
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 6d 6f 69 73 74 2e 0a
+DBG vis: Anyway, the cake is great.\nmoist.\n
+DBG(remove) index=3 size=33 row=2 col=-23
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 6f 69 73 74 2e 0a
+DBG vis: Anyway, the cake is great.\noist.\n
+DBG(remove) index=2 size=32 row=2 col=-24
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 69 73 74 2e 0a
+DBG vis: Anyway, the cake is great.\nist.\n
+DBG(remove) index=1 size=31 row=2 col=-25
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 73 74 2e 0a
+DBG vis: Anyway, the cake is great.\nst.\n
+DBG(remove) index=0 size=30 row=2 col=-26
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 74 2e 0a
+DBG vis: Anyway, the cake is great.\nt.\n
+DBG(remove) index=0 size=29 row=2 col=-27
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 2e 0a
+DBG vis: Anyway, the cake is great.\n.\n
+DBG(remove) index=0 size=28 row=2 col=-28
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 0a
+DBG vis: Anyway, the cake is great.\n\n
+DBG(remove) index=0 size=27 row=1 col=0
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a
+DBG vis: Anyway, the cake is great.\n
+DBG(insert) index=0 size=28 row=1 col=1
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 54
+DBG vis: Anyway, the cake is great.\nT
+DBG(move_to_row_end) index=0 size=28 row=1 col=1
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 54
+DBG vis: Anyway, the cake is great.\nT
+DBG(backward) index=0 size=28 row=1 col=0
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 54
+DBG vis: Anyway, the cake is great.\nT
+DBG(backward) index=0 size=28 row=0 col=26
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 54
+DBG vis: Anyway, the cake is great.\nT
+DBG(backward) index=0 size=28 row=0 col=25
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 2e 0a 54
+DBG vis: Anyway, the cake is great.\nT
+DBG(remove) index=0 size=27 row=0 col=24
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 0a 54
+DBG vis: Anyway, the cake is great\nT
+DBG(insert) index=0 size=28 row=0 col=25
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 65 0a 54
+DBG vis: Anyway, the cake is greate\nT
+DBG(backward) index=0 size=28 row=0 col=24
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 74 65 0a 54
+DBG vis: Anyway, the cake is greate\nT
+DBG(insert) index=0 size=29 row=0 col=25
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 6c 74 65 0a 54
+DBG vis: Anyway, the cake is grealte\nT
+DBG(backward) index=0 size=29 row=0 col=24
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 6c 74 65 0a 54
+DBG vis: Anyway, the cake is grealte\nT
+DBG(backward) index=0 size=29 row=0 col=23
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 6c 74 65 0a 54
+DBG vis: Anyway, the cake is grealte\nT
+DBG(backward) index=0 size=29 row=0 col=22
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 6c 74 65 0a 54
+DBG vis: Anyway, the cake is grealte\nT
+DBG(backward) index=0 size=29 row=0 col=21
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 6c 74 65 0a 54
+DBG vis: Anyway, the cake is grealte\nT
+DBG(backward) index=0 size=29 row=0 col=20
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 20 67 72 65 61 6c 74 65 0a 54
+DBG vis: Anyway, the cake is grealte\nT
+DBG(remove) index=0 size=28 row=0 col=19
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 67 72 65 61 6c 74 65 0a 54
+DBG vis: Anyway, the cake isgrealte\nT
+DBG(remove) index=0 size=27 row=0 col=18
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 72 65 61 6c 74 65 0a 54
+DBG vis: Anyway, the cake isrealte\nT
+DBG(remove) index=0 size=26 row=0 col=17
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 65 61 6c 74 65 0a 54
+DBG vis: Anyway, the cake isealte\nT
+DBG(move_to_row_end) index=0 size=26 row=0 col=24
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 65 61 6c 74 65 0a 54
+DBG vis: Anyway, the cake isealte\nT
+DBG(backward) index=0 size=26 row=0 col=23
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 65 61 6c 74 65 0a 54
+DBG vis: Anyway, the cake isealte\nT
+DBG(backward) index=0 size=26 row=0 col=22
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 65 61 6c 74 65 0a 54
+DBG vis: Anyway, the cake isealte\nT
+DBG(insert) index=0 size=27 row=0 col=23
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 65 61 6c 69 74 65 0a 54
+DBG vis: Anyway, the cake isealite\nT
+DBG(backward) index=0 size=27 row=0 col=22
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 65 61 6c 69 74 65 0a 54
+DBG vis: Anyway, the cake isealite\nT
+DBG(backward) index=0 size=27 row=0 col=21
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 65 61 6c 69 74 65 0a 54
+DBG vis: Anyway, the cake isealite\nT
+DBG(insert) index=0 size=28 row=0 col=22
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 65 20 61 6c 69 74 65 0a 54
+DBG vis: Anyway, the cake ise alite\nT
+DBG(move_to_row_end) index=0 size=28 row=0 col=26
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 65 20 61 6c 69 74 65 0a 54
+DBG vis: Anyway, the cake ise alite\nT
+DBG(move_to_row_start) index=0 size=28 row=1 col=0
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 65 20 61 6c 69 74 65 0a 54
+DBG vis: Anyway, the cake ise alite\nT
+DBG(move_to_column) index=0 size=28 row=1 col=1
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 65 20 61 6c 69 74 65 0a 54
+DBG vis: Anyway, the cake ise alite\nT
+DBG(down) index=0 size=28 row=1 col=1
+DBG hex: 41 6e 79 77 61 79 2c 20 74 68 65 20 63 61 6b 65 20 69 73 65 20 61 6c 69 74 65 0a 54
+DBG vis: Anyway, the cake ise alite\nT
