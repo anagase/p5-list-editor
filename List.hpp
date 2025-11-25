@@ -17,40 +17,58 @@ class List {
 public:
 
   //EFFECTS:  returns true if the list is empty
-  bool empty() const;
+  bool empty() const {
+    assert(false); //remove this line and implement this function
+  }
 
   //EFFECTS: returns the number of elements in this List
   //HINT:    Traversing a list is really slow. Instead, keep track of the size
   //         with a private member variable. That's how std::list does it.
-  int size() const;
+  int size() const {
+    assert(false); //remove this line and implement this function
+  }
 
   //REQUIRES: list is not empty
   //EFFECTS: Returns the first element in the list by reference
-  T & front();
+  T & front() {
+    assert(false); //remove this line and implement this function
+  }
 
   //REQUIRES: list is not empty
   //EFFECTS: Returns the last element in the list by reference
-  T & back();
+  T & back() {
+    assert(false); //remove this line and implement this function
+  }
 
   //EFFECTS:  inserts datum into the front of the list
-  void push_front(const T &datum);
+  void push_front(const T &datum) {
+    assert(false); //remove this line and implement this function
+  }
 
   //EFFECTS:  inserts datum into the back of the list
-  void push_back(const T &datum);
+  void push_back(const T &datum) {
+    assert(false); //remove this line and implement this function
+  }
 
   //REQUIRES: list is not empty
   //MODIFIES: invalidates all iterators to the removed element
   //EFFECTS:  removes the item at the front of the list
-  void pop_front();
+  void pop_front() {
+    assert(false); //remove this line and implement this function
+  }
 
   //REQUIRES: list is not empty
   //MODIFIES: invalidates all iterators to the removed element
   //EFFECTS:  removes the item at the back of the list
-  void pop_back();
+  void pop_back() {
+    assert(false); //remove this line and implement this function
+  }
 
   //MODIFIES: invalidates all iterators to the removed elements
   //EFFECTS:  removes all items from the list
-  void clear();
+  void clear() {
+    assert(false); //remove this line and implement this function
+  }
 
   // You should add in a default constructor, destructor, copy constructor,
   // and overloaded assignment operator, if appropriate. If these operations
@@ -67,7 +85,9 @@ private:
 
   //REQUIRES: list is empty
   //EFFECTS:  copies all nodes from other to this
-  void copy_all(const List<T> &other);
+  void copy_all(const List<T> &other) {
+    assert(false); //remove this line and implement this function
+  }
 
   Node *first;   // points to first Node in list, or nullptr if list is empty
   Node *last;    // points to last Node in list, or nullptr if list is empty
@@ -153,7 +173,8 @@ public:
     //       member variable f, then it->f accesses f on the
     //       underlying T element.
     T* operator->() const {
-      return &operator*();
+      //return &operator*();
+      assert(false); //remove this line and implement this function
     }
 
   private:
@@ -172,22 +193,30 @@ public:
   ////////////////////////////////////////
 
   // return an Iterator pointing to the first element
-  Iterator begin() const;
+  Iterator begin() const {
+    assert(false); //remove this line and implement this function
+  }
 
   // return an Iterator pointing to "past the end"
-  Iterator end() const;
+  Iterator end() const {
+    assert(false); //remove this line and implement this function
+  }
 
   //REQUIRES: i is a valid, dereferenceable iterator associated with this list
   //MODIFIES: invalidates all iterators to the removed element
   //EFFECTS: Removes a single element from the list container.
   //         Returns An iterator pointing to the element that followed the
   //         element erased by the function call
-  Iterator erase(Iterator i);
+  Iterator erase(Iterator i) {
+    assert(false); //remove this line and implement this function
+  }
 
   //REQUIRES: i is a valid iterator associated with this list
   //EFFECTS: Inserts datum before the element at the specified position.
   //         Returns an iterator to the the newly inserted element.
-  Iterator insert(Iterator i, const T &datum);
+  Iterator insert(Iterator i, const T &datum) {
+    assert(false); //remove this line and implement this function
+  }
 
 };//List
 
